@@ -14,9 +14,14 @@ public class JulyFirstSpringbootApp1Application {
 	
 	  //getBean() for Car
 	Car c1= con.getBean(Car.class);
+<<<<<<< Updated upstream
 
 
 		System.out.println("Durgaprasad babu from central");
+=======
+	
+	System.out.println("hemanth babu from local");
+>>>>>>> Stashed changes
 	}
 
 }
