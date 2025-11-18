@@ -14,6 +14,9 @@ public class JulyFirstSpringbootApp1Application {
 	
 	  //getBean() for Car
 	Car c1= con.getBean(Car.class);
+
+
+		System.out.println("Durgaprasad babu from central");
 	}
 
 }
